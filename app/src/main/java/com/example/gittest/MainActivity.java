@@ -14,6 +14,11 @@ public class MainActivity extends AppCompatActivity {
         //bug01已修复
         //登录开发完毕
 
+
         //修复bug02
+
+        //登出开发完毕
+
+
     }
 }
